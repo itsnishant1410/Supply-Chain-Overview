@@ -37,4 +37,7 @@ Enhanced decision-making through real-time performance monitoring and intuitive 
 Combined operational and financial metrics into a single reporting solution for comprehensive supply chain visibility.
 
 Screenshots 
+Overview : https://github.com/itsnishant1410/Supply-Chain-Overview/blob/main/Overview.png
+Product Insights : https://github.com/itsnishant1410/Supply-Chain-Overview/blob/main/Overview.png
 Supplier Insights : https://github.com/itsnishant1410/Supply-Chain-Overview/blob/main/Supplier%20Insights.png
+
